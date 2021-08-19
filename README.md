@@ -33,9 +33,9 @@
 
 <br />
 <br />
-
+<br/>
 <details>
-  <br/>
+  
   <summary>:zap: Vinay's GitHub Stats</summary>
 
   [![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinayMandhaan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
