@@ -21,7 +21,7 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="React Native" width="40px" src="https://miro.medium.com/max/1000/1*ub1DguhAtkCLvhUGuVGr6w.png" />
 <img align="left" alt="Flutter" width="40px" src="https://www.pngfind.com/pngs/m/185-1852592_nuff-said-show-me-the-code-flutter-logo.png" />
-<img align="left" alt="Express.js" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFkokhLLsOrtw9NlwdK9Z1Il7nq_5FQCAzZUIiSM8-9lAII8FxJG_2u5reGqIBdxy4miE&usqp=CAU" />
+<img align="left" alt="Express.js" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFkokhLLsOrtw9NlwdK9Z1Il7nq_5FQCAzZUIiSM8-9lAII8FxJG_2u5reGqIBdxy4miE&usqp=CAU" />
 <img align="left" alt="Microsoft Dynamics 365" width="80px" src="https://1000logos.net/wp-content/uploads/2021/05/Dynamics-365-logo.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
