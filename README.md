@@ -35,9 +35,9 @@
 <br />
 
 <details>
-  <summary>:zap: Vinay's GitHub Stats</summary>
+<!--   <summary>:zap: Vinay's GitHub Stats</summary> -->
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinayMandhaan)](https://github.com/anuraghazra/github-readme-stats)
+  [![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinayMandhaan)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
