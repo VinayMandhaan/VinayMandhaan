@@ -37,7 +37,7 @@
 <details>
   <summary>:zap: Vinay's GitHub Stats</summary>
 
-  <img align="left" alt="Vinay's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=VinayMandhaan&show_icons=true&hide_border=true" />
+  <img align="left" alt="Vinay's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VinayMandhaan)](https://github.com/VinayMandhaan/github-readme-stats" />
 
 </details>
 [linkedin]: https://www.linkedin.com/in/vinay-kumar-a04192173/
